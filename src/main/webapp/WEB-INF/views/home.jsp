@@ -85,7 +85,7 @@
 					Iterative approaches to corporate strategy foster collaborative
 					thinking to further the overall value proposition.</p>
 				<div class="social-icons">
-					<a href="#"> <i class="fab fa-linkedin-in"></i>
+					<a href="https://www.instagram.com/pksoooooo"> <i class="fab fa-linkedin-in"></i>
 					</a> <a href="#"> <i class="fab fa-github"></i>
 					</a> <a href="#"> <i class="fab fa-twitter"></i>
 					</a> <a href="#"> <i class="fab fa-facebook-f"></i>
@@ -108,10 +108,14 @@
 						<h3 class="mb-0">궁평캠프</h3>
 						<a href="http://gpcamp.com" target="_blank"><div
 								class="subheading mb-3">www.gpcamp.com</div></a>
-						<p>Collaboratively administrate empowered markets via
-							plug-and-play networks. Dynamically procrastinate B2C users after
-							installed base benefits. Dramatically visualize customer directed
-							convergence without revolutionary ROI.</p>
+							<p>
+							프로젝트 명 : 궁평캠프 홈페이지 재 구축<br>
+							프로젝트 진행일 : 2019.01 - 2019.02<br>
+							소속 회사명 : (주)인터링크앤씨<br>
+							사용 기술 : Java, Spring, JavaScript, Jquery, MySql, Git<br>
+							본인 역할 : <br>
+							사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(파일 입 출력 게시판, 회원관리, 관리자 권한 설정, 사용자 구분 로그인 구현) 
+							</p>
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2019.01 - 2019.02</span>
@@ -121,14 +125,17 @@
 				<div
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
-						<h3 class="mb-0">아이캡인터네셔널 홈페이지 개편</h3>
+						<h3 class="mb-0">아이캡인터네셔널</h3>
 						<a href="http://eyecap.kr" target="_blank"><div
-								class="subheading mb-3">eyecap.kr</div></a>
-						<p>Podcasting operational change management inside of
-							workflows to establish a framework. Taking seamless key
-							performance indicators offline to maximise the long tail. Keeping
-							your eye on the ball while performing a deep dive on the start-up
-							mentality to derive convergence on cross-platform integration.</p>
+								class="subheading mb-3">www.eyecap.kr</div></a>
+						<p>
+						프로젝트 명 : 아이캡인터네셔널 홈페이지 재 구축<br>
+						프로젝트 진행일 : 2018.12 - 2019.01<br>
+						소속 회사명 : (주)인터링크앤씨<br>
+						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySql, Git<br>
+						본인 역할 : <br>
+						사이트 기획 및 홈페이지 DB모델링, 사용자가 상품 페이지 클릭 시 해당 제품의 데이터를 DB에 저장 및 통계 출력, Ajax 비동기 통신을 활용하여 관리자 페이지를 따로 만들지 않고 메인 홈페이지에서 관리자 모드가 활성화 되도록 구현, 파일 입출력 게시판 구현 
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2018.12 - 2019.01</span>
@@ -141,11 +148,14 @@
 						<h3 class="mb-0">인터링크앤씨 홈페이지</h3>
 						<a href="http://www.interlinknc.com" target="_blank"><div
 								class="subheading mb-3">www.interlink.com</div></a>
-						<p>Podcasting operational change management inside of
-							workflows to establish a framework. Taking seamless key
-							performance indicators offline to maximise the long tail. Keeping
-							your eye on the ball while performing a deep dive on the start-up
-							mentality to derive convergence on cross-platform integration.</p>
+						<p>
+						프로젝트 명 : 인터링크앤씨 홈페이지 재 구축<br>
+						프로젝트 진행일 : 2018.11 - 2019.12<br>
+						소속 회사명 : (주)인터링크앤씨<br>
+						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySql, Git<br>
+						본인 역할 : <br>
+						사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(Java 라이브러리를 활용한 메일 전송 기능 구현, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2018.11 - 2018.12</span>
@@ -157,11 +167,13 @@
 					<div class="resume-content">
 						<h3 class="mb-0">국립수산과학원 적조 예방 DB 구축</h3>
 						<a href="javascript:void(0);"><div class="subheading mb-3">해양수산부</div></a>
-						<p>Capitalize on low hanging fruit to identify a ballpark
-							value added activity to beta test. Override the digital divide
-							with additional clickthroughs from DevOps. Nanotechnology
-							immersion along the information highway will close the loop on
-							focusing solely on the bottom line.</p>
+						<p>
+						프로젝트 명 : 국립수산과학원 적조 예방 DB 구축<br>
+						프로젝트 진행일 : 2018.09 - 2018.11<br>
+						소속 회사명 : (주)인터링크앤씨<br>
+						본인 역할 : <br>
+						국립수산과학원 현장 파견, 해양수산부 산하 60개 지자체에서 수면의 구획도 및 어장도 출장 수집, 지자체 공무원들과의 커뮤니케이션 담당
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2018.09 - 2018.11</span>
@@ -171,15 +183,17 @@
 				<div
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
-						<h3 class="mb-0">(사)부산항시설관리센터 정보포털시스템 구축</h3>
+						<h3 class="mb-0">부산항시설관리센터</h3>
 						<a href="https://www.bpfmc.or.kr" target="_blank"><div
 								class="subheading mb-3">www.bpfmc.or.kr</div></a>
-						<p>Bring to the table win-win survival strategies to ensure
-							proactive domination. At the end of the day, going forward, a new
-							normal that has evolved from generation X is on the runway
-							heading towards a streamlined cloud solution. User generated
-							content in real-time will have multiple touchpoints for
-							offshoring.</p>
+						<p>
+						프로젝트 명 : (사)부산항시설관리센터 정보포털시스템 구축<br>
+						프로젝트 진행일 : 2018.01 - 2018.08<br>
+						소속 회사명 : (주)인터링크앤씨<br>
+						사용 기술 : Java, Spring, JavaScript, Jquery, MySql, Svn<br>
+						본인 역할 : <br>
+						문의사항 답글 및 비밀 글 게시판 구현, 휴대폰 본인인증 Api 사용, 관리자 페이지 구축<br>(분실물 관리, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2018.01 - 2018.08</span>
@@ -194,15 +208,16 @@
 						<a href="javascript:void(0);" class="btn-example"
 							data-toggle="modal" data-target="#Modal1"><div
 								class="subheading mb-3">View</div></a>
-						<p>Bring to the table win-win survival strategies to ensure
-							proactive domination. At the end of the day, going forward, a new
-							normal that has evolved from generation X is on the runway
-							heading towards a streamlined cloud solution. User generated
-							content in real-time will have multiple touchpoints for
-							offshoring.</p>
+						<p>
+						프로젝트 명 : 부우마블 게임<br>
+						프로젝트 진행일 : 2017.09 - 2017.10<br>
+						사용 기술 : Java, MySql, Svn<br>
+						본인 역할 : <br>
+						기획 및 DB모델링, AWT를 활용하여 전체적인 화면구성과 땅 거래 DB연동 기능 구현
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
-						<span class="text-primary">2018.01 - 2018.08</span>
+						<span class="text-primary">2017.09 - 2017.10</span>
 					</div>
 					<!-- 졸작 모달 창 -->
 					<div class="modal fade" id="Modal1" tabindex="-1" role="dialog"
@@ -242,15 +257,16 @@
 						<a href="javascript:void(0);" class="btn-example"
 							data-toggle="modal" data-target="#Modal2"><div
 								class="subheading mb-3">View</div></a>
-						<p>Bring to the table win-win survival strategies to ensure
-							proactive domination. At the end of the day, going forward, a new
-							normal that has evolved from generation X is on the runway
-							heading towards a streamlined cloud solution. User generated
-							content in real-time will have multiple touchpoints for
-							offshoring.</p>
+						<p>
+						프로젝트 명 : IoT - Green House<br>
+						프로젝트 진행일 : 2017.03 - 2017.06<br>
+						사용 기술 : Android, Java, MySql<br>
+						본인 역할 : <br>
+						사용자 앱 개발, 본체 제작 및 자료 조사
+						</p>
 					</div>
 					<div class="resume-date text-md-right">
-						<span class="text-primary">2018.01 - 2018.08</span>
+						<span class="text-primary">2017.03 - 2017.06</span>
 					</div>
 					<!-- 졸작 모달 창 -->
 					<div class="modal fade" id="Modal2" tabindex="-1" role="dialog"
