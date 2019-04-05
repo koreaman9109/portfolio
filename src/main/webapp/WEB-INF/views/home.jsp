@@ -113,8 +113,7 @@
 							프로젝트 진행일 : 2019.01 - 2019.02<br>
 							소속 회사명 : (주)인터링크앤씨<br>
 							사용 기술 : Java, Spring, JavaScript, Jquery, MySql, Git<br>
-							본인 역할 : <br>
-							사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(파일 입 출력 게시판, 회원관리, 관리자 권한 설정, 사용자 구분 로그인 구현) 
+							본인 역할 : 사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(파일 입 출력 게시판, 회원관리, 관리자 권한 설정, 사용자 구분 로그인 구현) 
 							</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -133,8 +132,7 @@
 						프로젝트 진행일 : 2018.12 - 2019.01<br>
 						소속 회사명 : (주)인터링크앤씨<br>
 						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySql, Git<br>
-						본인 역할 : <br>
-						사이트 기획 및 홈페이지 DB모델링, 사용자가 상품 페이지 클릭 시 해당 제품의 데이터를 DB에 저장 및 통계 출력, Ajax 비동기 통신을 활용하여 관리자 페이지를 따로 만들지 않고 메인 홈페이지에서 관리자 모드가 활성화 되도록 구현, 파일 입출력 게시판 구현 
+						본인 역할 : 사이트 기획 및 홈페이지 DB모델링, 사용자가 상품 페이지 클릭 시 해당 제품의 데이터를 DB에 저장 및 통계 출력, Ajax 비동기 통신을 활용하여 관리자 페이지를 따로 만들지 않고 메인 홈페이지에서 관리자 모드가 활성화 되도록 구현, 파일 입출력 게시판 구현 
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -153,8 +151,7 @@
 						프로젝트 진행일 : 2018.11 - 2019.12<br>
 						소속 회사명 : (주)인터링크앤씨<br>
 						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySql, Git<br>
-						본인 역할 : <br>
-						사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(Java 라이브러리를 활용한 메일 전송 기능 구현, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
+						본인 역할 : 사이트 기획 및 홈페이지 DB모델링, 공통 관리자 페이지 구축<br>(Java 라이브러리를 활용한 메일 전송 기능 구현, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -171,8 +168,7 @@
 						프로젝트 명 : 국립수산과학원 적조 예방 DB 구축<br>
 						프로젝트 진행일 : 2018.09 - 2018.11<br>
 						소속 회사명 : (주)인터링크앤씨<br>
-						본인 역할 : <br>
-						국립수산과학원 현장 파견, 해양수산부 산하 60개 지자체에서 수면의 구획도 및 어장도 출장 수집, 지자체 공무원들과의 커뮤니케이션 담당
+						본인 역할 : 국립수산과학원 현장 파견, 해양수산부 산하 60개 지자체에서 수면의 구획도 및 어장도 출장 수집, 지자체 공무원들과의 커뮤니케이션 담당
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -191,8 +187,7 @@
 						프로젝트 진행일 : 2018.01 - 2018.08<br>
 						소속 회사명 : (주)인터링크앤씨<br>
 						사용 기술 : Java, Spring, JavaScript, Jquery, MySql, Svn<br>
-						본인 역할 : <br>
-						문의사항 답글 및 비밀 글 게시판 구현, 휴대폰 본인인증 Api 사용, 관리자 페이지 구축<br>(분실물 관리, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
+						본인 역할 : 문의사항 답글 및 비밀 글 게시판 구현, 휴대폰 본인인증 Api 사용, 관리자 페이지 구축<br>(분실물 관리, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -212,8 +207,7 @@
 						프로젝트 명 : 부우마블 게임<br>
 						프로젝트 진행일 : 2017.09 - 2017.10<br>
 						사용 기술 : Java, MySql, Svn<br>
-						본인 역할 : <br>
-						기획 및 DB모델링, AWT를 활용하여 전체적인 화면구성과 땅 거래 DB연동 기능 구현
+						본인 역할 : 기획 및 DB모델링, AWT를 활용하여 전체적인 화면구성과 땅 거래 DB연동 기능 구현
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -261,8 +255,7 @@
 						프로젝트 명 : IoT - Green House<br>
 						프로젝트 진행일 : 2017.03 - 2017.06<br>
 						사용 기술 : Android, Java, MySql<br>
-						본인 역할 : <br>
-						사용자 앱 개발, 본체 제작 및 자료 조사
+						본인 역할 : 사용자 앱 개발, 본체 제작 및 자료 조사
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -308,7 +301,7 @@
 					<div class="resume-content">
 						<h3 class="mb-0">Hewlett Packard Enterprise</h3>
 						<div class="subheading mb-3">[NCS] 자바기반 모바일 & 웹 개발자 양성과정 수료</div>
-						<div>Computer Science - Web Development Track</div>
+<!-- 						<div>Computer Science - Web Development Track</div> -->
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2017.06 - 2018.11</span>
@@ -320,7 +313,7 @@
 					<div class="resume-content">
 						<h3 class="mb-0">한라대학교</h3>
 						<div class="subheading mb-3">컴퓨터 공학과 졸업</div>
-						<div>Computer Science - Web Development Track</div>
+<!-- 						<div>Computer Science - Web Development Track</div> -->
 					</div>
 					<div class="resume-date text-md-right">
 						<span class="text-primary">2010.03 - 2018.02</span>
