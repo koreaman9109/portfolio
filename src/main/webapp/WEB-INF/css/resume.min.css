@@ -14,9 +14,9 @@ body {
 }
 
 .ex_img{
-	width: 400px; 
+	width: 345px; 
 	height: 250px;
-	padding-right: 18px;
+/* 	padding-right: 14px; */
 }
 
 .ex_p {
@@ -181,7 +181,7 @@ section.resume-section .resume-item .resume-date {
 
 @media ( min-width :768px) {
 	section.resume-section {
-		min-height: 100vh
+/* 		min-height: 100vh */
 	}
 	section.resume-section .resume-item .resume-date {
 		min-width: 30rem

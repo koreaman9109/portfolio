@@ -6,7 +6,8 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charsetv=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -85,7 +86,7 @@
 					thinking to further the overall value proposition.</p>
 				<div class="social-icons">
 					<a href="https://github.com/koreaman9109" target="_blank"> <i class="fab fa-github"></i></a> 
-					<a href="https://www.instagram.com/pksoooooo" target="_blank"> <i class="fab fa-linkedin-in"></i></a> 
+<!-- 					<a href="https://www.instagram.com/pksoooooo" target="_blank"> <i class="fab fa-linkedin-in"></i></a>  -->
 <!-- 					<a href="#"> <i class="fab fa-facebook-f"></i></a> -->
 <!-- 					</a> <a href="#"> <i class="fab fa-twitter"></i> -->
 				</div>
@@ -149,7 +150,9 @@
 <!-- 						<span class="text-primary">2019.01 - 2019.02</span> -->
 <!-- 						<br> -->
 						<div>
+						<p>
 						<img class="ex_img" src="img/gpcamp_img.JPG">
+						</p>
 						</div>
 					</div>
 				</div>
@@ -251,7 +254,7 @@
 						<p class="ex_p">
 						프로젝트 명 : 부우마블 게임<br>
 						프로젝트 진행일 : 2017.09 - 2017.10<br>
-						사용 기술 : Java, MySql, Svn<br>
+						사용 기술 : Java, MySQL, Svn<br>
 						본인 역할 : 기획 및 DB모델링, AWT를 활용하여 전체적인 화면구성과 땅 거래 DB연동 기능 구현
 						</p>
 					</div>
@@ -303,15 +306,15 @@
 						<p class="ex_p">
 						프로젝트 명 : IoT - Green House<br>
 						프로젝트 진행일 : 2017.03 - 2017.06<br>
-						사용 기술 : Android, Java, MySql<br>
+						사용 기술 : Android, Java, MySQL<br>
 						본인 역할 : 사용자 앱 개발, 본체 제작 및 자료 조사
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
 <!-- 						<span class="text-primary">2017.03 - 2017.06</span> -->
 <!-- 						<br> -->
-						<div align="left">
-						<img src="img/greenhouse_img.JPG" style="max-width: 400px; height: 250px;">
+						<div>
+						<img class="ex_img" src="img/greenhouse_img.JPG">
 						</div>
 					</div>
 					<!-- 졸작 모달 창 -->
