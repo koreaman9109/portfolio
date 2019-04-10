@@ -69,7 +69,6 @@
 	</nav>
 
 	<div class="container-fluid p-0">
-
 		<section class="resume-section p-3 p-lg-5 d-flex align-items-center"
 			id="about">
 			<div class="w-100">
@@ -99,18 +98,36 @@
 			<div class="w-100">
 				<h2 class="mb-5">Skills</h2>
 
-				<div class="subheading mb-3">Programming Languages &amp; Tools</div>
+				<div class="subheading mb-3">Languages & Framework</div>
 				<ul class="list-inline dev-icons">
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >Java</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >JSP</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >Spring</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >MySQL</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >Ajax</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >JavaScript</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >Jquery</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >Git</li>
-						<li class="btn btn-light" style="pointer-events: none; cursor: default;" >SVN</li>
-					</ul>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Java</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >JSP</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Spring</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Python</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Django</li>
+				</ul>
+				<br>
+				<br>
+				<div class="subheading mb-3">Script</div>
+				<ul class="list-inline dev-icons">		
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Ajax</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >JavaScript</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >JQuery</li>
+				</ul>
+				<br>
+				<br>
+				<div class="subheading mb-3">Database</div>
+				<ul class="list-inline dev-icons">		
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >MySQL</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >SQLite</li>
+				</ul>
+				<br>
+				<br>
+				<div class="subheading mb-3">Etc</div>
+				<ul class="list-inline dev-icons">		
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >Git</li>
+						<li class="btn btn-light btn-lg" style="pointer-events: none; cursor: default;" >SVN</li>
+				</ul>
 
 <!-- 				<div class="subheading mb-3">Workflow</div> -->
 <!-- 				<ul class="fa-ul mb-0"> -->
@@ -138,11 +155,19 @@
 					<div class="resume-content">
 						<h3 class="mb-0">궁평캠프</h3>
 						<div class="subheading mb-3"><a href="http://gpcamp.com" target="_blank">www.gpcamp.com</a></div>
-							<p class="ex_p">
+							<p class="ex_p_content">
 							프로젝트 명 : 궁평캠프 홈페이지 재 구축<br>
+							</p>
+							<p class="ex_p_content">
 							프로젝트 진행일 : 2019.01 - 2019.02<br>
+							</p>
+							<p class="ex_p_content">
 							소속 회사명 : (주)인터링크앤씨<br>
-							사용 기술 : Java, Spring, JavaScript, Jquery, MySQL, Git<br>
+							</p>
+							<p class="ex_p_content">
+							사용 기술 : Java, Spring, JavaScript, JQuery, MySQL, Git<br>
+							</p>
+							<p class="ex_p_content">
 							본인 역할 : 사이트 기획 및 DB모델링, 공통 관리자 페이지 구축<br>(파일 입 출력 게시판, 회원관리, 관리자 권한 설정, 사용자 구분 로그인 구현) 
 							</p>
 					</div>
@@ -162,11 +187,19 @@
 					<div class="resume-content">
 						<h3 class="mb-0">아이캡인터네셔널</h3>
 						<div class="subheading mb-3"><a href="http://eyecap.kr" target="_blank">www.eyecap.kr</a></div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : 아이캡인터네셔널 홈페이지 재 구축<br>
+						</P>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2018.12 - 2019.01<br>
+						</p>
+						<p class="ex_p_content">
 						소속 회사명 : (주)인터링크앤씨<br>
-						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySQL, Git<br>
+						</p>
+						<p class="ex_p_content">
+						사용 기술 : Java, Spring, Ajax, JavaScript, JQuery, MySQL, Git<br>
+						</p>
+						<p class="ex_p_content">
 						본인 역할 : 사이트 기획 및 DB모델링, 사용자가 상품 페이지 클릭 시 해당 제품의 데이터를 DB에 저장 및 통계 출력, Ajax 비동기 통신을 활용하여 관리자 페이지를 따로 만들지 않고 메인 홈페이지에서 관리자 모드가 활성화 되도록 구현, 파일 입출력 게시판 구현 
 						</p>
 					</div>
@@ -184,11 +217,19 @@
 					<div class="resume-content">
 						<h3 class="mb-0">인터링크앤씨 홈페이지</h3>
 						<div class="subheading mb-3"><a href="http://www.interlinknc.com" target="_blank">www.interlink.com</a></div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : 인터링크앤씨 홈페이지 재 구축<br>
+						</p>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2018.11 - 2019.12<br>
+						</p>
+						<p class="ex_p_content">
 						소속 회사명 : (주)인터링크앤씨<br>
-						사용 기술 : Java, Spring, Ajax, JavaScript, Jquery, MySQL, Git<br>
+						</p>
+						<p class="ex_p_content">
+						사용 기술 : Java, Spring, Ajax, JavaScript, JQuery, MySQL, Git<br>
+						</p>
+						<p class="ex_p_content">
 						본인 역할 : 사이트 기획 및 DB모델링, 공통 관리자 페이지 구축<br>(Java 라이브러리를 활용한 메일 전송 기능 구현, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
 						</p>
 					</div>
@@ -206,10 +247,16 @@
 					<div class="resume-content">
 						<h3 class="mb-0">국립수산과학원 적조 예방 DB 구축</h3>
 						<div class="subheading mb-3"><a href="javascript:void(0);" style="pointer-events: none; cursor: default;">해양수산부</a></div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : 국립수산과학원 적조 예방 DB 구축<br>
+						</p>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2018.09 - 2018.11<br>
+						</p>
+						<p class="ex_p_content">
 						소속 회사명 : (주)인터링크앤씨<br>
+						</p>
+						<p class="ex_p_content">
 						본인 역할 : 국립수산과학원 현장 파견, 해양수산부 산하 60개 지자체에서 수면의 구획도 및 어장도 현장 출장 수집 및 데이터 관리, 지자체 공무원들과의 커뮤니케이션 담당
 						</p>
 					</div>
@@ -226,12 +273,20 @@
 					<div class="resume-content">
 						<h3 class="mb-0">부산항시설관리센터</h3>
 						<div class="subheading mb-3"><a href="https://www.bpfmc.or.kr" target="_blank">www.bpfmc.or.kr</a></div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : (사)부산항시설관리센터 정보포털시스템 구축<br>
+						</p>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2018.01 - 2018.08<br>
+						</p>
+						<p class="ex_p_content">
 						소속 회사명 : (주)인터링크앤씨<br>
-						사용 기술 : Java, Spring, JavaScript, Jquery, MySql, Svn<br>
-						본인 역할 : 문의사항 답글 및 비밀 글 게시판 구현, 휴대폰 본인인증 Api 사용, 관리자 페이지 구축<br>(분실물 관리, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
+						</p>
+						<p class="ex_p_content">
+						사용 기술 : Java, Spring, JavaScript, JQuery, MySQL, SVN<br>
+						</p>
+						<p class="ex_p_content">
+						본인 역할 : 문의사항 답글 게시판 구현, 본인인증 Api 사용, 관리자 페이지 구현<br>(분실물 관리, 파일 입 출력 게시판, 회원 관리, 관리자 권한 설정, 사용자 구분 로그인 기능 구현) 
 						</p>
 					</div>
 					<div class="resume-date text-md-right">
@@ -251,10 +306,16 @@
 						<div class="subheading mb-3">
 						<a href="javascript:void(0);" class="btn-example" data-toggle="modal" data-target="#Modal1">View</a>
 						</div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : 부우마블 게임<br>
+						</p>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2017.09 - 2017.10<br>
-						사용 기술 : Java, MySQL, Svn<br>
+						</p>
+						<p class="ex_p_content">
+						사용 기술 : Java, MySQL, SVN<br>
+						</p>
+						<p class="ex_p_content">
 						본인 역할 : 기획 및 DB모델링, AWT를 활용하여 전체적인 화면구성과 땅 거래 DB연동 기능 구현
 						</p>
 					</div>
@@ -303,10 +364,16 @@
 						<div class="subheading mb-3">
 						<a href="javascript:void(0);" class="btn-example" data-toggle="modal" data-target="#Modal2">View</a>
 						</div>
-						<p class="ex_p">
+						<p class="ex_p_content">
 						프로젝트 명 : IoT - Green House<br>
+						</p>
+						<p class="ex_p_content">
 						프로젝트 진행일 : 2017.03 - 2017.06<br>
+						</p>
+						<p class="ex_p_content">
 						사용 기술 : Android, Java, MySQL<br>
+						</p>
+						<p class="ex_p_content">
 						본인 역할 : 사용자 앱 개발, 본체 제작 및 자료 조사
 						</p>
 					</div>

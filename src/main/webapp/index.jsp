@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charsetv=UTF-8">
-<title>Insert title here</title>
+<title>박권수 포트폴리오</title>
 </head>
 <body>
 	<script type="text/javascript">

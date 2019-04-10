@@ -19,8 +19,17 @@ body {
 /* 	padding-right: 14px; */
 }
 
-.ex_p {
+.ex_p_head {
+	margin-bottom: 0;
 	line-height: 1.7;
+	color: #212529
+	
+}
+
+.ex_p_content {
+	margin-bottom: 0;
+	padding-top: 4px;
+	line-height: 1.4;
 	color: #212529
 }
 
@@ -181,13 +190,13 @@ section.resume-section .resume-item .resume-date {
 
 @media ( min-width :768px) {
 	section.resume-section {
-/* 		min-height: 100vh */
+		min-height: 100vh
 	}
 	section.resume-section .resume-item .resume-date {
 		min-width: 30rem
 	}
 	section.skill-section {
-/* 		min-height: 100vh */
+		min-height: 100vh
 	}
 	section.skill-section .skill-item .skill-date {
 		min-width: 18rem
